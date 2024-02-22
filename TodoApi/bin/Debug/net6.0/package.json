@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "axios-interceptor": "^3.0.1"
+  }
+}
